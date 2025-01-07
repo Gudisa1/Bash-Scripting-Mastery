@@ -25,8 +25,8 @@ The tutorial includes examples, exercises, and challenges to ensure hands-on lea
 1. **Clone this Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/Bash-Scripting-Mastery-Tutorial.git
-   cd Bash-Scripting-Mastery-Tutorial
+   git clone https://github.com/Gudisa1/Bash-Scripting-Mastery.git
+   cd Bash-Scripting-Mastery
    ```
 
 2. **Follow the Modules:**  
@@ -62,7 +62,7 @@ Contributions are welcome! To contribute:
 
 ## 🧑‍💻 Author
 
-This tutorial was created by **[Your Name](https://github.com/your-username)** to empower students and developers with Bash scripting skills.
+This tutorial was created by **[Gudisa](https://github.com/Gudisa1)** to empower students and developers with Bash scripting skills.
 
 ---
 
@@ -71,7 +71,7 @@ This tutorial was created by **[Your Name](https://github.com/your-username)** t
 If you have questions or feedback, feel free to:
 
 - Open an issue in this repository.
-- Contact me via [email](mailto:your-email@example.com).
+- Contact me via [email](gudisagebi1@gmail.com).
 
 ---
 
